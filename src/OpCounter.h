@@ -1,0 +1,10 @@
+#ifndef ASD2022_L1_COMPLEXITE_OPCOUNTER_H
+#define ASD2022_L1_COMPLEXITE_OPCOUNTER_H
+
+
+class OpCounter {
+
+};
+
+
+#endif
