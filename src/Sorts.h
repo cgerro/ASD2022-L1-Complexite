@@ -38,7 +38,7 @@ void selectionSort(std::vector<T>& v) {
                     if (v[j] < v[iMin])
                         iMin = j;
                 }
-                swap(v[i], v[iMin]); // permutation
+                swap(v[i], v[iMin]);
             }
     }
 }
